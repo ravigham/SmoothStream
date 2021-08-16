@@ -1,7 +1,7 @@
 # SmoothStream [![Build Status](https://travis-ci.com/CT83/SmoothStream.svg?branch=master)](https://travis-ci.com/CT83/SmoothStream)
 Webcam and PiCamera Streaming over the Network with Python
 
-
+good 
 ## Getting Started
 SmoothStream is a Python Application which makes streaming video from webcams over the network a breeze.
 
